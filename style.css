@@ -34,7 +34,7 @@ a {                  /* A stands for link, so this section is setting the defaul
 }
 
 h1 {		     /* This styles the header at the top of the page */
-	font: bold 2.1em 'Source Sans Pro',Arial, Sans-Serif;
+	font: bold 2.1em 'Impact', Serif;
 	text-align: left;
 	color: white;
 }
@@ -82,8 +82,9 @@ div.section {
 
 /* This alters the appearance of the div with id="minileft", the div containing the images */
 .minileft {
-	float: left;
-	height: 100%;
+	float: right;
+	height: 50%;
+	width: 50%;
 	margin-bottom:1.5em;
 	margin-right: 1em;
 }
